@@ -103,5 +103,11 @@ body{
 
 @media (max-width:400px) {
 .choice{
-  font-size: 80px;}
+  font-size: 70px;}
+}
+
+@media (max-width: 350px) {
+  .choice {
+    font-size: 60px;
+  }
 }
